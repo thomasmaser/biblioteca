@@ -1,4 +1,4 @@
-catalogo = ["Arancia meccanica", "Tropico del cancro", "Il vecchio e il mare", "Dune", "Il cavaliere inesistente"]
+catalogo = ["Arancia meccanica", "Tropico del cancro", "Il vecchio e il mare", "Dune", "Il capitale"]
 prestito =[]
 
 def AddToCatalogo(libro):
